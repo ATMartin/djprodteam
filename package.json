@@ -1,0 +1,11 @@
+{
+  "name": "ipsum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
